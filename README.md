@@ -10,6 +10,6 @@ this is meant for my own personal use as I am preparing to migrate from a window
 * Write pull scripts for the following modules:
 - [x] Module 1
 - [x] Module 2
-- [ ] Module 3
-- [ ] Module 4
-- [ ] Module 5
+- [x] Module 3
+- [x] Module 4
+- [x] Module 5
