@@ -241,3 +241,55 @@ git clone git@github.com:FluxOfPingIntegers/validations-with-form_tag-rails-lab
 cd ..
 
 cd mod4
+git clone git@github.com:FluxOfPingIntegers/fewpjs-acting-on-events
+git clone git@github.com:FluxOfPingIntegers/fewpjs-adding-behavior-with-methods
+git clone git@github.com:FluxOfPingIntegers/fewpjs-build-the-example
+git clone git@github.com:FluxOfPingIntegers/fewpjs-class-extensions-extends-lab
+git clone git@github.com:FluxOfPingIntegers/fewpjs-class-extensions-super-lab
+git clone git@github.com:FluxOfPingIntegers/fewpjs-document-onload
+git clone git@github.com:FluxOfPingIntegers/fewpjs-dom-editing-lab
+git clone git@github.com:FluxOfPingIntegers/fewpjs-event-listening
+git clone git@github.com:FluxOfPingIntegers/fewpjs-fetch-lab
+git clone git@github.com:FluxOfPingIntegers/fewpjs-fns-as-first-class-data-array-o-functions
+git clone git@github.com:FluxOfPingIntegers/fewpjs-fns-as-first-class-data-do-behavior
+git clone git@github.com:FluxOfPingIntegers/fewpjs-getter-and-setter-methods
+git clone git@github.com:FluxOfPingIntegers/fewpjs-iterators-fndcl-fnexpr-filter-lab
+git clone git@github.com:FluxOfPingIntegers/fewpjs-iterators-fndcl-fnexpr-find-lab
+git clone git@github.com:FluxOfPingIntegers/fewpjs-iterators-fndcl-fnexpr-map-lab
+git clone git@github.com:FluxOfPingIntegers/fewpjs-iterators-fndcl-fnexpr-reduce-lab
+git clone git@github.com:FluxOfPingIntegers/fewpjs-js-fundamentals-arithmetic-lab
+git clone git@github.com:FluxOfPingIntegers/fewpjs-oo-initializing-instances
+git clone git@github.com:FluxOfPingIntegers/fewpjs-oo-static-methods-lab
+git clone git@github.com:FluxOfPingIntegers/fewpjs-removing-altering-and-inserting-html-lab
+git clone git@github.com:FluxOfPingIntegers/fewpjs-sending-data-with-fetch
+git clone git@github.com:FluxOfPingIntegers/fewpjs-stitching-together-the-three-pillars-new
+git clone git@github.com:FluxOfPingIntegers/fewpjs_arrow_function_shorthand
+git clone git@github.com:FluxOfPingIntegers/fewpjs_destructuring_assignment
+git clone git@github.com:FluxOfPingIntegers/js-advanced-functions-basic-functions-review-lab
+git clone git@github.com:FluxOfPingIntegers/js-advanced-functions-context-lab
+git clone git@github.com:FluxOfPingIntegers/js-advanced-functions-first-class-functions-lab
+git clone git@github.com:FluxOfPingIntegers/js-advanced-functions-functional-library-project
+git clone git@github.com:FluxOfPingIntegers/js-advanced-functions-generalized-map-and-reduce-lab
+git clone git@github.com:FluxOfPingIntegers/js-advanced-functions-introduction-to-context-lab
+git clone git@github.com:FluxOfPingIntegers/js-advanced-functions-introduction-to-map-and-reduce-lab
+git clone git@github.com:FluxOfPingIntegers/js-basics-variables-lab
+git clone git@github.com:FluxOfPingIntegers/js-data-structures-arrays-lab
+git clone git@github.com:FluxOfPingIntegers/js-data-structures-objects-lab
+git clone git@github.com:FluxOfPingIntegers/js-looping-and-iteration-looping-code-along
+git clone git@github.com:FluxOfPingIntegers/js-object-oriented-constructor-functions-lab
+git clone git@github.com:FluxOfPingIntegers/js-principles-scope-lab
+git clone git@github.com:FluxOfPingIntegers/js-rails-as-api-custom-json-rendering-using-rails
+git clone git@github.com:FluxOfPingIntegers/js-rails-as-api-extracting-a-service-class
+git clone git@github.com:FluxOfPingIntegers/js-rails-as-api-rendering-different-content-types-using-rails
+git clone git@github.com:FluxOfPingIntegers/js-rails-as-api-rendering-related-object-data-in-json
+git clone git@github.com:FluxOfPingIntegers/js-rails-as-api-review-of-rails-mvc
+git clone git@github.com:FluxOfPingIntegers/js-rails-as-api-using-fast-json-api
+git clone git@github.com:FluxOfPingIntegers/jsdom-dom-challenge
+git clone git@github.com:FluxOfPingIntegers/jsdom-fetch-dog-ceo-challenge
+git clone git@github.com:FluxOfPingIntegers/jsdom-task-lister-lite
+git clone git@github.com:FluxOfPingIntegers/jsdom-toy-tale
+git clone git@github.com:FluxOfPingIntegers/phase-4-project
+git clone git@github.com:FluxOfPingIntegers/prototypal-oo-js-object-oriented-object-methods-lab
+cd ..
+
+cd mod5
