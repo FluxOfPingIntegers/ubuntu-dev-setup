@@ -201,7 +201,10 @@ git clone git@github.com:FluxOfPingIntegers/omniauth_lab
 git clone git@github.com:FluxOfPingIntegers/omniauth_readme
 git clone git@github.com:FluxOfPingIntegers/partial-locals-lab
 git clone git@github.com:FluxOfPingIntegers/partial-locals-reading
-git clone git@github.com:FluxOfPingIntegers/phase3_project
+mkdir phase-3-project
+cd phase-3-project
+git clone git@github.com:FluxOfPingIntegers/crate_digger
+cd ..
 git clone git@github.com:FluxOfPingIntegers/rails-activerecord-model-rails-lab
 git clone git@github.com:FluxOfPingIntegers/rails-activerecord-models-and-rails-readme
 git clone git@github.com:FluxOfPingIntegers/rails-amusement-park
@@ -288,8 +291,68 @@ git clone git@github.com:FluxOfPingIntegers/jsdom-dom-challenge
 git clone git@github.com:FluxOfPingIntegers/jsdom-fetch-dog-ceo-challenge
 git clone git@github.com:FluxOfPingIntegers/jsdom-task-lister-lite
 git clone git@github.com:FluxOfPingIntegers/jsdom-toy-tale
-git clone git@github.com:FluxOfPingIntegers/phase-4-project
+mkdir phase-4-project
+cd phase-4-project
+git clone git@github.com:FluxOfPingIntegers/congo_api
+git clone git@github.com:FluxOfPingIntegers/congo_client
+cd ..
 git clone git@github.com:FluxOfPingIntegers/prototypal-oo-js-object-oriented-object-methods-lab
 cd ..
 
 cd mod5
+git clone git@github.com:FluxOfPingIntegers/a-react-app-example
+git clone git@github.com:FluxOfPingIntegers/building-forms-lab
+git clone git@github.com:FluxOfPingIntegers/combine-reducers
+git clone git@github.com:FluxOfPingIntegers/create-react-app-readme
+git clone git@github.com:FluxOfPingIntegers/crud-lab
+git clone git@github.com:FluxOfPingIntegers/hogwarts
+git clone git@github.com:FluxOfPingIntegers/intro-to-redux-library-codealong
+git clone git@github.com:FluxOfPingIntegers/jwt-auth-rails
+git clone git@github.com:FluxOfPingIntegers/map-dispatch-to-props-lab
+git clone git@github.com:FluxOfPingIntegers/map-dispatch-to-props-readme
+git clone git@github.com:FluxOfPingIntegers/map-state-to-props-lab
+git clone git@github.com:FluxOfPingIntegers/map-state-to-props-readme
+git clone git@github.com:FluxOfPingIntegers/npm-lab
+mkdir phase-5-project
+cd phase-5-project
+git clone git@github.com:FluxOfPingIntegers/sproutable-backend
+git clone git@github.com:FluxOfPingIntegers/sproutable-frontend
+cd ..
+git clone git@github.com:FluxOfPingIntegers/quote-maker-react-lab
+git clone git@github.com:FluxOfPingIntegers/react-async-fetch-lab
+git clone git@github.com:FluxOfPingIntegers/react-async-gif-search-lab
+git clone git@github.com:FluxOfPingIntegers/react-component-mounting-and-unmounting-lab
+git clone git@github.com:FluxOfPingIntegers/react-component-mounting-lab
+git clone git@github.com:FluxOfPingIntegers/react-component-updating-lab
+git clone git@github.com:FluxOfPingIntegers/react-components-as-routes
+git clone git@github.com:FluxOfPingIntegers/react-components-as-routes-lab
+git clone git@github.com:FluxOfPingIntegers/react-container-components-lab
+git clone git@github.com:FluxOfPingIntegers/react-dynamic-components-lab
+git clone git@github.com:FluxOfPingIntegers/react-event-system-lab
+git clone git@github.com:FluxOfPingIntegers/react-events-crash-course-lab
+git clone git@github.com:FluxOfPingIntegers/react-events-in-detail-lab
+git clone git@github.com:FluxOfPingIntegers/react-forms-lab
+git clone git@github.com:FluxOfPingIntegers/react-information-flow-code-along
+git clone git@github.com:FluxOfPingIntegers/react-initial-state-lab
+git clone git@github.com:FluxOfPingIntegers/react-presentation-components-lab
+git clone git@github.com:FluxOfPingIntegers/react-props-and-state-lab
+git clone git@github.com:FluxOfPingIntegers/react-props-movie-lab
+git clone git@github.com:FluxOfPingIntegers/react-router-nested-routes-code-along
+git clone git@github.com:FluxOfPingIntegers/react-simple-state-lab
+git clone git@github.com:FluxOfPingIntegers/react-static-components-lab
+git clone git@github.com:FluxOfPingIntegers/react-updating-state
+git clone git@github.com:FluxOfPingIntegers/react-updating-state-lab
+git clone git@github.com:FluxOfPingIntegers/react-using-callbacks-to-pass-information-lab
+git clone git@github.com:FluxOfPingIntegers/redux-create-store
+git clone git@github.com:FluxOfPingIntegers/redux-create-store-lab
+git clone git@github.com:FluxOfPingIntegers/redux-delete-codealong
+git clone git@github.com:FluxOfPingIntegers/redux-delete-lab
+git clone git@github.com:FluxOfPingIntegers/redux-dispatch
+git clone git@github.com:FluxOfPingIntegers/redux-dispatch-with-event-listeners
+git clone git@github.com:FluxOfPingIntegers/redux-forms-codealong
+git clone git@github.com:FluxOfPingIntegers/redux-index-codealong
+git clone git@github.com:FluxOfPingIntegers/redux-initial-dispatch
+git clone git@github.com:FluxOfPingIntegers/redux-reducer
+git clone git@github.com:FluxOfPingIntegers/redux-thunk-lab
+git clone git@github.com:FluxOfPingIntegers/review-map-state-to-props-readme
+cd ..
