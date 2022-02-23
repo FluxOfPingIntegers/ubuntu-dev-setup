@@ -14,7 +14,7 @@ this is meant for my own personal use as I am preparing to migrate from a window
 
 - Fourth: Download a text editor to code with.  [Here](https://code.visualstudio.com/docs/?dv=linux64_deb) is the link for Visual Studio Code.
 
-- Fifth: Download/Install git using [these](https://github.com/git-guides/install-git) instructions.  Use [these](https://kbroman.org/github_tutorial/pages/first_time.html) instructions to link git cli with github account.
+- Fifth: Download/Install git using [these](https://github.com/git-guides/install-git) instructions.  Use [these](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys) instructions to check/add GitHub account SSH key
 
 ### Progress
 
