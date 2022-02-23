@@ -16,10 +16,24 @@ this is meant for my own personal use as I am preparing to migrate from a window
 
 - Fifth: Download/Install git using [these](https://github.com/git-guides/install-git) instructions.  Use [these](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys) instructions to check/add GitHub account SSH key
 
+- Finally: Give execute permission to scripts by typing (The following should be done thin this order: setup-script, pull-script):
+```
+chmod +x /path/to/thescript.sh
+```
+then run the script by entering:
+```
+/path/to/myscript.sh
+```
+
 ### Progress
 
 - Environmental setup script for Linux
-  --- NEED CLEAR INSTRUCTIONS FOR RUBY, NPM, SINATRA, ACTIVE RECORD, RAILS, RACK, SQLITE, POSGRESQL, SQL, REACT/REDUX SETUP ---
+* [x] prepare files for migration
+* [x] setup wireless driver
+* [x] download browser
+* [ ] download text editor
+* [ ] link github account and confirm SSH key
+* [ ] run scripts
 
 - Write pull scripts for the following modules:
 

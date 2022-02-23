@@ -5,6 +5,9 @@ curl -sSL https://get.rvm.io | bash -s stable --rails
 
 sudo apt install sqlite3
 
+sudo apt install postgresql postgresql-contrib
+sudo -i -u postgres
+
 sudo apt install nodejs
 sudo apt install npm
 
