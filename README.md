@@ -10,6 +10,10 @@ this is meant for my own personal use as I am preparing to migrate from a window
 
 - Second: After following the installation procedures for [Ubuntu](https://ubuntu.com/download/desktop) and booting to the new Linux OS, I should connect to the internet via an ethernet jack. Once connected I need to lookup how to install the correct wireless driver for my system that is compatible with Ubuntu. For instance I found good instructions for broadcom drivers [here](https://askubuntu.com/questions/55868/installing-broadcom-wireless-drivers).
 
+- Third:
+
+- Fourth: Download a text editor to code with.  [Here](https://code.visualstudio.com/docs/?dv=linux64_deb) is the link for Visual Studio Code.
+
 ### Progress
 
 - Environmental setup script for Linux
