@@ -31,8 +31,8 @@ then run the script by entering:
 * [x] prepare files for migration
 * [x] setup wireless driver
 * [x] download browser
-* [ ] download text editor
-* [ ] link github account and confirm SSH key
+* [x] download text editor
+* [x] link github account and confirm SSH key
 * [ ] run scripts
 
 - Write pull scripts for the following modules:
