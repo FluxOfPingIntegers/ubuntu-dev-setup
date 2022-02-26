@@ -26,7 +26,7 @@ then run the script by entering:
 ```
 
 - Finally: In order to allow RVM to run during terminal shells within VS code by default, you will have to
-navigate your .bashrc file and leave a pointer to rvm.  In order to do this within terminal, first enter:
+navigate to your .bashrc file and leave a pointer to rvm.  In order to do this within terminal, first enter:
 ```
 cd ~
 ```
@@ -34,7 +34,7 @@ then
 ```
 code .
 ```
-then add the following to the line under __export PATH="$PATH:$HOME/.rvm/bin"__ and make sure you save
+then add the following to the line under __export PATH="$PATH:$HOME/.rvm/bin"__  in .bashrc and make sure you save
 ```
 source ~/.rvm/scripts/rvm
 ```
