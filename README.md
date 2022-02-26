@@ -1,6 +1,6 @@
 ## Script For Pulling Flatiron Coursework
 
-### Disclamer
+### Disclaimer
 
 this is meant for my own personal use as I am preparing to migrate from a windows WSL2 environment to a true Linux environment
 
@@ -33,7 +33,7 @@ then run the script by entering:
 * [x] download browser
 * [x] download text editor
 * [x] link github account and confirm SSH key
-* [ ] run scripts
+* [x] run scripts
 
 - Write pull scripts for the following modules:
 
