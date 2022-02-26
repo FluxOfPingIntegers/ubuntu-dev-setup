@@ -15,6 +15,7 @@ sudo apt install sqlite3
 
 sudo apt install postgresql postgresql-contrib
 sudo -i -u postgres
+sudo apt-get install postgresql-client libpq5 libpq-dev
 
 sudo apt install nodejs
 sudo apt install npm
