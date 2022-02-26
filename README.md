@@ -16,13 +16,27 @@ this is meant for my own personal use as I am preparing to migrate from a window
 
 - Fifth: Download/Install git using [these](https://github.com/git-guides/install-git) instructions.  Use [these](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys) instructions to check/add GitHub account SSH key
 
-- Finally: Give execute permission to scripts by typing (The following should be done thin this order: setup-script, pull-script):
+- Sixth: Give execute permission to scripts by typing (The following should be done thin this order: setup-script, pull-script):
 ```
 chmod +x /path/to/thescript.sh
 ```
 then run the script by entering:
 ```
 /path/to/myscript.sh
+```
+
+- Finally: In order to allow RVM to run during terminal shells within VS code by default, you will have to
+navigate your .bashrc file and leave a pointer to rvm.  In order to do this within terminal, first enter:
+```
+cd ~
+```
+then
+```
+code .
+```
+then add the following to the line under __export PATH="$PATH:$HOME/.rvm/bin"__ and make sure you save
+```
+source ~/.rvm/scripts/rvm
 ```
 
 ### Progress

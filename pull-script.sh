@@ -1,3 +1,4 @@
+# Creating folders/subfolders for coursework
 mkdir flatiron
 cd flatiron
 mkdir mod1
@@ -6,6 +7,7 @@ mkdir mod3
 mkdir mod4
 mkdir mod5
 
+# Pulling all completed coursework for mod1
 cd mod1
 git clone git@github.com:FluxOfPingIntegers/020121-Intro-to-Arrays-And-Iteration
 git clone git@github.com:FluxOfPingIntegers/looping-while-until
@@ -94,6 +96,7 @@ git clone git@github.com:FluxOfPingIntegers/ruby-oo-object-relationships-has-man
 git clone git@github.com:FluxOfPingIntegers/yield-and-return-values
 cd ..
 
+# Pulling all completed coursework for mod2
 cd mod2
 git clone git@github.com:FluxOfPingIntegers/Phase2_Project
 git clone git@github.com:FluxOfPingIntegers/css-essentials-css-issue-bot-9000
@@ -172,6 +175,7 @@ git clone git@github.com:FluxOfPingIntegers/sinatra-mvc-lab
 git clone git@github.com:FluxOfPingIntegers/sql-table-relations-library-lab
 cd ..
 
+# Pulling all completed coursework for mod3
 cd mod3
 git clone git@github.com:FluxOfPingIntegers/activerecord-lifecycle-reading
 git clone git@github.com:FluxOfPingIntegers/activerecord-validations-lab
@@ -201,10 +205,12 @@ git clone git@github.com:FluxOfPingIntegers/omniauth_lab
 git clone git@github.com:FluxOfPingIntegers/omniauth_readme
 git clone git@github.com:FluxOfPingIntegers/partial-locals-lab
 git clone git@github.com:FluxOfPingIntegers/partial-locals-reading
+# Creating subfolder to contain phase 3 project
 mkdir phase-3-project
 cd phase-3-project
 git clone git@github.com:FluxOfPingIntegers/crate_digger
 cd ..
+# Continuing with phase 3 coursework pull requests
 git clone git@github.com:FluxOfPingIntegers/rails-activerecord-model-rails-lab
 git clone git@github.com:FluxOfPingIntegers/rails-activerecord-models-and-rails-readme
 git clone git@github.com:FluxOfPingIntegers/rails-amusement-park
@@ -243,6 +249,7 @@ git clone git@github.com:FluxOfPingIntegers/validations-in-controller-actions-ra
 git clone git@github.com:FluxOfPingIntegers/validations-with-form_tag-rails-lab
 cd ..
 
+# Pulling all completed coursework for mod4
 cd mod4
 git clone git@github.com:FluxOfPingIntegers/fewpjs-acting-on-events
 git clone git@github.com:FluxOfPingIntegers/fewpjs-adding-behavior-with-methods
@@ -291,6 +298,7 @@ git clone git@github.com:FluxOfPingIntegers/jsdom-dom-challenge
 git clone git@github.com:FluxOfPingIntegers/jsdom-fetch-dog-ceo-challenge
 git clone git@github.com:FluxOfPingIntegers/jsdom-task-lister-lite
 git clone git@github.com:FluxOfPingIntegers/jsdom-toy-tale
+# Creating subfolder to contain phase-4-project
 mkdir phase-4-project
 cd phase-4-project
 git clone git@github.com:FluxOfPingIntegers/congo_api
@@ -299,6 +307,7 @@ cd ..
 git clone git@github.com:FluxOfPingIntegers/prototypal-oo-js-object-oriented-object-methods-lab
 cd ..
 
+# Pulling all completed coursework for mod5
 cd mod5
 git clone git@github.com:FluxOfPingIntegers/a-react-app-example
 git clone git@github.com:FluxOfPingIntegers/building-forms-lab
@@ -313,11 +322,14 @@ git clone git@github.com:FluxOfPingIntegers/map-dispatch-to-props-readme
 git clone git@github.com:FluxOfPingIntegers/map-state-to-props-lab
 git clone git@github.com:FluxOfPingIntegers/map-state-to-props-readme
 git clone git@github.com:FluxOfPingIntegers/npm-lab
+
+# Creating subfolder to contain phase 5 (final) project
 mkdir phase-5-project
 cd phase-5-project
 git clone git@github.com:FluxOfPingIntegers/sproutable-backend
 git clone git@github.com:FluxOfPingIntegers/sproutable-frontend
 cd ..
+# Continuing with phase 5 coursework pull requests
 git clone git@github.com:FluxOfPingIntegers/quote-maker-react-lab
 git clone git@github.com:FluxOfPingIntegers/react-async-fetch-lab
 git clone git@github.com:FluxOfPingIntegers/react-async-gif-search-lab
