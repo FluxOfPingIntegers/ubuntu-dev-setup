@@ -10,7 +10,7 @@ this is meant for my own personal use as I am preparing to migrate from a window
 
 - Second: After following the installation procedures for [Ubuntu](https://ubuntu.com/download/desktop) and booting to the new Linux OS, I should connect to the internet via an ethernet jack. Once connected I need to lookup how to install the correct wireless driver for my system that is compatible with Ubuntu. For instance I found good instructions for broadcom drivers [here](https://askubuntu.com/questions/55868/installing-broadcom-wireless-drivers).
 
-- Third: Download preferred browser.  Here is the link for chrome, make sure to sync settings in order to keep bookmarks.
+- Third: Download preferred browser.  [Here](https://www.google.com/chrome/?brand=YTUH&geo=US&gclid=CjwKCAiAvOeQBhBkEiwAxutUVBr86PdeC7juCWHUmOCDD2Lwgk5T5C8RQRrUKDtCVzxE_Cr6xD3WvxoC79kQAvD_BwE&gclsrc=aw.ds) is the link for chrome, make sure to sync settings in order to keep bookmarks.
 
 - Fourth: Download a text editor to code with.  [Here](https://code.visualstudio.com/docs/?dv=linux64_deb) is the link for Visual Studio Code.
 
