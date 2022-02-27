@@ -43,7 +43,7 @@ source ~/.rvm/scripts/rvm
 ```
 sudo nano /etc/postgresql/NUMBER/main/pg_hba.conf
 ```
-If will be presented with a large text file, scroll down to the bottom until you see a line that resembles:
+After entering your password you will be presented with a large text file, scroll down to the bottom until you see a line that resembles:
 ```
 # Database administrative login by Unix domain socket
 local all   postgres    peer
