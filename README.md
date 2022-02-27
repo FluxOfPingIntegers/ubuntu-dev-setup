@@ -16,7 +16,7 @@ this is meant for my own personal use as I am preparing to migrate from a window
 
 - Fifth: Download/Install git using [these](https://github.com/git-guides/install-git) instructions.  Use [these](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys) instructions to check/add GitHub account SSH key
 
-- Sixth: Give execute permission to scripts by typing (The following should be done thin this order: setup-script, pull-script):
+- Sixth: Give execute permission to scripts by typing (The following should be done in this order: setup-script, pull-script):
 ```
 chmod +x /path/to/thescript.sh
 ```

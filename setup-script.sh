@@ -23,7 +23,7 @@ sudo apt install sqlite3
 # Install postgresql in order to allow broader compatibility for database deployment
 sudo apt install postgresql postgresql-contrib
 sudo -i -u postgres
-sudo apt-get install postgresql-client libpq5 libpq-dev
+sudo apt-get install postgresql-client libpq5 libpq-dev #
 
 # Install nodejs in order to allow work with node javascript
 sudo apt install nodejs
