@@ -22,7 +22,7 @@ chmod +x /path/to/thescript.sh
 ```
 then run the script by entering:
 ```
-/path/to/myscript.sh
+/path/to/thescript.sh
 ```
 
 - Finally: In order to allow RVM to run during terminal shells within VS code by default, you will have to
