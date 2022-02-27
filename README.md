@@ -20,12 +20,12 @@ this is meant for my own personal use as I am preparing to migrate from a window
 ```
 chmod +x /path/to/thescript.sh
 ```
-then run the script by entering:
+then run the script by entering (WARNING: you will at a certain point be prompted to enter your user password, also at a very specific point, postgresql will drop you into its CLI.  Configuration of postgresql will be handled in a later step.  Simply type __exit__ and hit enter to continue with the setup-script):
 ```
 /path/to/thescript.sh
 ```
 
-- Finally: In order to allow RVM to run during terminal shells within VS code by default, you will have to
+- Seventh: In order to allow RVM to run during terminal shells within VS code by default, you will have to
 navigate to your .bashrc file and leave a pointer to rvm.  In order to do this within terminal, first enter:
 ```
 cd ~
@@ -38,6 +38,17 @@ then add the following to the line under __export PATH="$PATH:$HOME/.rvm/bin"__ 
 ```
 source ~/.rvm/scripts/rvm
 ```
+
+- Eighth: During running setup-script.sh you probably ran into the postgresql cli.  You will now need to create a SUPERUSER account that reflects your ubuntu username. open terminal or VS code and navigate to __/etc/postgresql__ there you will see a folder that is simply a number.  Remember this number, it will be refered to as NUMBER in the following instructions.  Initially postgresql will not allow you to login as a user other than the default postgres and it won't even let you login to that if your ubuntu username is not postgres.  In order to fix this enter the following:
+```
+sudo nano /etc/postgresql/NUMBER/main/pg_hba.conf
+```
+If will be presented with a large text file, scroll down to the bottom until you see a line that resembles:
+```
+# Database administrative login by Unix domain socket
+local all   postgres    peer
+```
+you will need to change __peer__ to __md5__ and hit __CTRL+X__ to exit.  enter __y__ when prompted to save then hit __enter__
 
 ### Progress
 
