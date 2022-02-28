@@ -1,8 +1,8 @@
-## Script For Pulling Flatiron Coursework
+## Scripts For Ubuntu Dev Environment Setup & Flatiron Coursework
 
 ### Disclaimer
 
-this is meant for my own personal use as I am preparing to migrate from a windows WSL2 environment to a true Linux environment
+This was originally meant to simply pull all of my Flatiron coursework to my new Ubuntu environment after migrating from Windows OS WSL2.  However I have decided to script/document most of my Ubuntu setup so that I may easily create Linux environments for the future.  If you would like to use my setup-script to create your own Ubuntu machine feel free to do so, however please disregard all instructions pertaining to my personal Flatiron coursework.  These are the instructions pertaining to pull-script.sh.
 
 ### Instructions For Setup
 
