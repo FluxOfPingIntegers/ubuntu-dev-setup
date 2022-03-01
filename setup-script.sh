@@ -31,5 +31,8 @@ sudo apt install nodejs
 # Install node package manager in order to manage various nodes with ease.
 sudo apt install npm
 
+# Installing expo-cli for easy react-native development
+sudo npm i -g expo-cli
+
 # Instal node version manager in order to manage various versions of npm.
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
