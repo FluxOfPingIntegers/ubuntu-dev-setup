@@ -30,3 +30,6 @@ sudo apt install nodejs
 
 # Install node package manager in order to manage various nodes with ease.
 sudo apt install npm
+
+# Instal node version manager in order to manage various versions of npm.
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
