@@ -41,6 +41,11 @@ source ~/.rvm/scripts/rvm
 
 - Eighth: This is the most complicated step.  During running setup-script.sh you probably ran into the postgresql cli.  You will now need to create a SUPERUSER account that reflects your ubuntu username. Because this is such a long step I have decided to defer the directions for this to a blog post.  The complete instructions for configuring postgresql are under the __Setting Up Postgresql On Ubuntu__ section [here](https://ryan-m-schleck.medium.com/installing-ubuntu-as-a-development-environment-7bbb834213b8).
 
+- Optional: Downlaod zoom for ubuntu version from [here](https://zoom.us/download?os=linux). Navigate to the file location within terminal, verify the file name is zoom_amd64.deb, then enter:
+```
+sudo apt install ./zoom_amd64.deb
+```
+
 ### Progress
 
 - Environmental setup script for Linux
