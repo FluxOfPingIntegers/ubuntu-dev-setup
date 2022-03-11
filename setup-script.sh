@@ -31,6 +31,9 @@ sudo apt install nodejs
 # Install node package manager in order to manage various nodes with ease.
 sudo apt install npm
 
+# Installing yarn for alternative package management
+sudo npm i -g yarn
+
 # Installing expo-cli for easy react-native development
 sudo npm i -g expo-cli
 
